@@ -1,6 +1,7 @@
 {
   "name": "vite-vue3-starter",
   "version": "0.0.1",
+  "homepage": "https://darkside7h.github.io/vite-vue3-starter",
   "private": false,
   "description": "A Vite2.x + Vue3 + TypeScript template starter",
   "scripts": {
@@ -29,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/XPoet/vite-vue3-starter/issues"
   },
-  "homepage": "https://github.com/XPoet/vite-vue3-starter#readme",
+  // "homepage": "https://github.com/XPoet/vite-vue3-starter#readme",
   "lint-staged": {
     "*.{vue,js,ts}": "eslint --fix"
   },

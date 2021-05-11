@@ -1,7 +1,5 @@
 name: deploy
 
-homepage: 'https://darkside7h.github.io/vite-vue3-starter'
-
 on:
   push:
     branches: [master]

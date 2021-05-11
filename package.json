@@ -30,7 +30,6 @@
   "bugs": {
     "url": "https://github.com/XPoet/vite-vue3-starter/issues"
   },
-  // "homepage": "https://github.com/XPoet/vite-vue3-starter#readme",
   "lint-staged": {
     "*.{vue,js,ts}": "eslint --fix"
   },
